@@ -1,4 +1,4 @@
 [submodule "documentdb"]
 	path = build/postgres-documentdb/documentdb
-	url = https://github.com/FerretDB/documentdb.git
+	url = https://git.trueog.net/upstream/documentdb
 	branch = ferretdb
